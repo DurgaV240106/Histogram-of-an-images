@@ -25,7 +25,7 @@ The Histogram of gray scale image and color image is shown.
 
 
 ## Program:
-```python
+python
 # Developed By: Durga V
 # Register Number: 212223233052
 
@@ -34,10 +34,9 @@ The Histogram of gray scale image and color image is shown.
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-```
-```
 gray_image = cv2.imread('th.jpg', cv2.IMREAD_GRAYSCALE)
 ```
+
 ```plt.title("Grayscale Image")
 plt.imshow(gray_image, cmap='gray')
 plt.axis('off')
