@@ -27,7 +27,7 @@ The Histogram of gray scale image and color image is shown.
 ## Program:
 python
 # Developed By: Durga V
-# Register Number: 212223233052
+# Register Number: 212223230052
 
 ## program:
 ```
